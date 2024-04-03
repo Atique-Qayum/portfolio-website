@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ------
 
-step 1: run terminal commands
+## step 1: run terminal commands
  - npx create-next-app@13.4.7 .
  - npx run dev
 
