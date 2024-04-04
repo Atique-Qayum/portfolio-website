@@ -1,9 +1,9 @@
+import Intro from "@/components/intro";
+
 export default function Home() {
   return (
     <main className="">
-      <div className="">
-      
-      </div>
+      <Intro />
     </main>
   )
 }
